@@ -1,0 +1,6 @@
+JavaScript
+---------------------
+alert("");
+console.log("");
+let <variablename>=<value>;
+const <name>=<value>;(The value is never changed...)

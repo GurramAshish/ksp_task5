@@ -1,0 +1,35 @@
+body{
+    background-color: chocolate
+}
+p{
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+ol{
+    color: green;
+}
+ul{
+    color: lime;
+}
+table {
+    border: 2px solid rgb(51, 0, 255);
+}
+td, th{
+    border: 2px solid rgb(111, 0, 255);
+}
+#A1 {
+    color:pink;
+}
+.list {
+    color: rgb(141, 205, 63);
+    font-size: large;
+    font-family: cursive
+
+}
+div{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    text-align: right;
+}
